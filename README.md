@@ -1,5 +1,12 @@
 # PHP-Course-Code - Osama-Elzero
-Hello everyone , in this repo i will put lessons code for elzero php course ♥ <br>
-I'm Ahmed Sayed From Egypt. <br>
-You Can message me about HTML | CSS | JS | Python | PHP. <br>
-This Is My Twitter => https://twitter.com/AhmedS9190027 <br>
+<a href="#types"> Data Types In PHP </a><br>
+
+<h3 id = "types">Data Types In PHP</h3>
+<h4>It’s Simple And Multiple Such As</h4>
+<p>1. Boolean ⇒ True And False</p>
+<p>2. Integer</p>
+<p>3. String ⇒ Text</p>
+<p>4. Array ⇒ Group Of Things</p>
+<p>5. Other Types</p>
+
+<br> <p>Letters is not sensitive</p>
